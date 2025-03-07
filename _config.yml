@@ -1,13 +1,13 @@
 # Site
-repository: sproogen/resume-theme
+repository: marvingregormrzyglod/cv
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
+name: Marvin Gregor Mrzyglod
+title: Game Developer & Bible Nerd
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
@@ -15,17 +15,17 @@ website: www.github.com/sproogen/resume-theme
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: jekyll
+ github_username:  marvingregormrzyglod
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jekyll
+# linkedin_username: jekyll
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,57 +48,104 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Marvin Gregor and I'm a Bible nerd. In the past decade I developed blockbuster video games, pioneered practical use of [Self-Determination Theory](https://selfdeterminationtheory.org/theory/) and peaked when Sony entrusted me with design leadership of their oldest exclusive PlayStation franchise. However, I quit gaming to develop new ways of interacting with the Bible and let people experience scripture in refreshing ways.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I have worked with a range of different languages and tools. The things I currently have the most experience with are: <mark>LUA</mark>, <mark>JavaScript</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>git</mark>, <mark>Unreal Engine</mark>, <mark>Anvil/Scimitar</mark> and my favorite <mark>GameMaker</mark> and its <mark>GML Script</mark>.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Holy Hint
+        link: www.holyhint.com
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  marvingregormrzyglod/HolyHint
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/marvingregormrzyglod/HolyHint
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Promote lateral thinking with Bible verses. Inspired by Brian Eno and Peter Schmidt's original Oblique Strategies, first published in 1975.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way of learning <mark>CSS</mark> and it grew into a full-fledged web-thingy that lets you experience scripture from a different perspective.
 
-  - title: Experience # Title for the section
+  - title: Game Development Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Sony Interactive Entertainment
+        link: sonyinteractive.com
+        # link_text: sonyinteractive.com
+        sub_title: Design Consultant
+        caption: May 2022 - October 2022
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+           Untitled Multiplayer Game (beloved PlayStation franchise)
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Sony reached out to me, and requested my expertise in data-driven design techniques for conceiving game mechanics based on [Self-Determination Theory](https://selfdeterminationtheory.org/theory/).
+            
+      - layout: left
+        title: Lucid Games
+        link: lucidgames.co.uk
+        # link_text: lucidgames.co.uk
+        sub_title: Lead Game Designer
+        caption: November 2020 - February 2023
+        quote: >
+           Destruction AllStars, Project Redstar
+        description: | # this will include new lines to allow paragraphs
+            Led the game design, level design and narrative design teams, total of 11 designers. Conceived core gameplay vision. Designed vehicle handling (unique, never before seen vehicle traversal mechanics). Designed 3rd-person over-the-shoulder shooting gameplay (reticle behavior, camera tweens, the works). Blocked out multiplayer arenas and large open-world city map in Unreal Engine 5. Wrote character backstories and barks. Interviewed and hired two new designers. Pioneered data-driven design and produced competitive intelligence reports (interpretation of sales data, focus groups, A/B tests and telemetrics). 
+
+      - layout: left
+        title: Ubisoft
+        link: ubisoft.com
+        # link_text: ubisoft.com
+        sub_title: Game Designer
+        caption: August 2018 - October 2020
+        quote: >
+           Assassin's Creed Valhalla (DLCs: Dawn of Ragnarok and Wrath of the Druids), Skull & Bones, Untitled Assassin's Creed Spin-Off
+        description: | # this will include new lines to allow paragraphs 
+            Owner of two boss fights. Scripted AI with goal-oriented action planners (GOAP) and node-based blueprints in Anvil Engine. Light level design (generating navmeshes for AI and adjusting world terrain).
+            
+            Owner of experimental new horse combat. Created brand new animations, horse weapons and NPC enemies that are fun to fight from horseback.
+            
+            Owner of experimental new cinematic player camera for conveying emotions through context sensitive camera shake/yaw/tilt/etc.
+      
+      - layout: left
+        title: Square Enix Europe
+        link: square-enix.com
+        # link_text: square-enix.com
+        sub_title: Senior Technical Specialist
+        caption: May 2015 - July 2018
+        quote: >
+           Final Fantasy XI, Final Fantasy XIV: A Realm Reborn, Final Fantasy XIV: Heavensward, Final Fantasy XIV: Stormblood
+        description: | # this will include new lines to allow paragraphs
+            Pushed buttons in the European online player account database to fix issues with game license assignments and account security. Created a knowledge base with MediaWiki for troubleshooting game crashes and bugs to reach daily SLA faster.
+            
+            
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Concordia University
+        caption: 2019
+        sub_title: Ubisoft Game Creator Odyssey
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Rational Game Design (RGD) & Rational Level Design (RLD)
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Concordia University created this course based on 30 years of game design history and it teaches Rational Game Design, which presents methods for how to conceive game mechanics rationally (without creative subjectivity) so that designers know what data to manipulate to keep players in a flow-state.
+      
+      - layout: left
+        title: The Chinese University of Hong Kong
+        caption: 2018
+        sub_title: Course: How Do We Play Games?
+        quote: >
+          Rational Game Design (RGD) & Rational Level Design (RLD)
+        description: | # this will include new lines to allow paragraphs
+          This was a one-off course that I took to learn about accessibility and how different demographics engage with video games.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
