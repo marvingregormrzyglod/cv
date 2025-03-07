@@ -1,5 +1,5 @@
 # Site
-repository: marvingregormrzyglod/cv
+repository: sproogen/jameswgrant
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Marvin Gregor Mrzyglod
 title: Game Developer & Bible Nerd
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: none
+website: none
 
 # Dark Mode (true/false/never)
 darkmode: false
