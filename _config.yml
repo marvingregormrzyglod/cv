@@ -82,9 +82,9 @@ content:
         sub_title: Design Consultant
         caption: May 2022 - October 2022
         quote: >
-           In Mononeko, you weave attacks into the music, chain together movements and race against time to capture the kitten killers.
+           Untitled Multiplayer Game
         description: | # this will include new lines to allow paragraphs
-            Sony requested my 
+            Sony reached out to me, and requested my expertise in data-driven design techniques for conceiving game mechanics based on [Self-Determination Theory](https://selfdeterminationtheory.org/theory/).
             
       - layout: left
         title: Lucid Games
@@ -93,9 +93,9 @@ content:
         sub_title: Lead Game Designer
         caption: November 2020 - February 2023
         quote: >
-           In Mononeko, you weave attacks into the music, chain together movements and race against time to capture the kitten killers.
+           Destruction AllStars, Project Redstar
         description: | # this will include new lines to allow paragraphs
-            Sony requested my 
+            Led the game design, level design and narrative design teams, total of 11 designers. Conceived core gameplay vision. Designed vehicle handling (unique, never before seen vehicle traversal mechanics). Designed 3rd-person over-the-shoulder shooting gameplay (reticle behavior, camera tweens, the works). Blocked out multiplayer arenas and large open-world city map in Unreal Engine 5. Wrote character backstories and barks. Interviewed and hired two new designers. Pioneered data-driven design and produced competitive intelligence reports (interpretation of sales data, focus groups, A/B tests and telemetrics). 
 
       - layout: left
         title: Ubisoft
@@ -104,10 +104,12 @@ content:
         sub_title: Game Designer
         caption: August 2018 - October 2020
         quote: >
-           In Mononeko, you weave attacks into the music, chain together movements and race against time to capture the kitten killers.
-        description: | # this will include new lines to allow paragraphs
-            Sony requested my 
-
+           Assassin's Creed Valhalla (DLCs: Dawn of Ragnarok and Wrath of the Druids), Skull & Bones, Untitled Assassin's Creed Spin-Off
+        description: | # this will include new lines to allow paragraphs 
+            Owner of two boss fights. Scripted AI with goal-oriented action planners (GOAP) and node-based blueprints in Anvil Engine. Light level design (generating navmeshes for AI and adjusting world terrain).
+            # Owner of experimental new horse combat. Created brand new animations, horse weapons and NPC enemies that are fun to fight from horseback.
+            # Owner of experimental new cinematic player camera for conveying emotions through context sensitive camera shake/yaw/tilt/etc.
+      
       - layout: left
         title: Square Enix Europe
         link: square-enix.com
@@ -115,9 +117,9 @@ content:
         sub_title: Senior Technical Specialist
         caption: May 2015 - July 2018
         quote: >
-           In Mononeko, you weave attacks into the music, chain together movements and race against time to capture the kitten killers.
+           Final Fantasy XI, Final Fantasy XIV: A Realm Reborn, Final Fantasy XIV: Heavensward, Final Fantasy XIV: Stormblood
         description: | # this will include new lines to allow paragraphs
-            Sony requested my 
+            Pushed buttons in the European online player account database to fix issues with game license assignments and account security. Created a knowledge base with MediaWiki for troubleshooting game crashes and bugs to reach daily SLA faster.
             
             
 
