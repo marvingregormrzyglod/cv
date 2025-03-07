@@ -50,41 +50,76 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Marvin Gregor and I'm a Bible nerd. In the past decade I developed blockbuster video games, pioneered the design technology ARCsheet and peaked when Sony entrusted me with design leadership of their oldest exclusive PlayStation franchise. However, I quit gaming to develop new ways of interacting with the Bible and let people experience scripture in refreshing ways.
 
-  I have worked with a range of different languages and tools. The things I currently have the most experience with are: <mark>Node.js</mark>, <mark>JavaScript</mark>, <mark>GML</mark>, <mark>HTML</mark>, <mark>git</mark>, <mark>Unreal Engine</mark>, <mark>Anvil/Scimitar</mark> and my favorite <mark>GameMaker Studio</mark>.
+  I have worked with a range of different languages and tools. The things I currently have the most experience with are: <mark>LUA</mark>, <mark>JavaScript</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>git</mark>, <mark>Unreal Engine</mark>, <mark>Anvil/Scimitar</mark> and my favorite <mark>GameMaker</mark> and its <mark>GML Script</mark>.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Holy Hint
+        link: www.holyhint.com
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  marvingregormrzyglod/HolyHint
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/marvingregormrzyglod/HolyHint
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Promote lateral thinking with Bible verses. Inspired by Brian Eno and Peter Schmidt's original Oblique Strategies, first published in 1975.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way of learning <mark>CSS</mark> and it grew into a full-fledged web-thingy that lets you experience scripture from a different perspective.
 
-  - title: Experience # Title for the section
+  - title: Game Development Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Sony Interactive Entertainment
+        link: sonyinteractive.com
+        # link_text: sonyinteractive.com
+        sub_title: Design Consultant
+        caption: May 2022 - October 2022
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+           In Mononeko, you weave attacks into the music, chain together movements and race against time to capture the kitten killers.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Sony requested my 
+            
+      - layout: left
+        title: Lucid Games
+        link: lucidgames.co.uk
+        # link_text: lucidgames.co.uk
+        sub_title: Lead Game Designer
+        caption: November 2020 - February 2023
+        quote: >
+           In Mononeko, you weave attacks into the music, chain together movements and race against time to capture the kitten killers.
+        description: | # this will include new lines to allow paragraphs
+            Sony requested my 
+
+      - layout: left
+        title: Ubisoft
+        link: ubisoft.com
+        # link_text: ubisoft.com
+        sub_title: Game Designer
+        caption: August 2018 - October 2020
+        quote: >
+           In Mononeko, you weave attacks into the music, chain together movements and race against time to capture the kitten killers.
+        description: | # this will include new lines to allow paragraphs
+            Sony requested my 
+
+      - layout: left
+        title: Square Enix Europe
+        link: square-enix.com
+        # link_text: square-enix.com
+        sub_title: Senior Technical Specialist
+        caption: May 2015 - July 2018
+        quote: >
+           In Mononeko, you weave attacks into the music, chain together movements and race against time to capture the kitten killers.
+        description: | # this will include new lines to allow paragraphs
+            Sony requested my 
+            
+            
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
