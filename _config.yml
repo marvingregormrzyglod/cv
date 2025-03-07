@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Marvin Gregor and I'm a Bible nerd. In the past decade I developed blockbuster video games, pioneered the design technology ARCsheet and peaked when Sony entrusted me with design leadership of their oldest exclusive PlayStation franchise. However, I quit gaming to develop new ways of interacting with the Bible and let people experience scripture in refreshing ways.
+  Hi, my name's Marvin Gregor and I'm a Bible nerd. In the past decade I developed blockbuster video games, pioneered practical use of [Self-Determination Theory](https://selfdeterminationtheory.org/theory/) and peaked when Sony entrusted me with design leadership of their oldest exclusive PlayStation franchise. However, I quit gaming to develop new ways of interacting with the Bible and let people experience scripture in refreshing ways.
 
   I have worked with a range of different languages and tools. The things I currently have the most experience with are: <mark>LUA</mark>, <mark>JavaScript</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>git</mark>, <mark>Unreal Engine</mark>, <mark>Anvil/Scimitar</mark> and my favorite <mark>GameMaker</mark> and its <mark>GML Script</mark>.
 
@@ -82,7 +82,7 @@ content:
         sub_title: Design Consultant
         caption: May 2022 - October 2022
         quote: >
-           Untitled Multiplayer Game
+           Untitled Multiplayer Game (beloved PlayStation franchise)
         description: | # this will include new lines to allow paragraphs
             Sony reached out to me, and requested my expertise in data-driven design techniques for conceiving game mechanics based on [Self-Determination Theory](https://selfdeterminationtheory.org/theory/).
             
@@ -107,8 +107,10 @@ content:
            Assassin's Creed Valhalla (DLCs: Dawn of Ragnarok and Wrath of the Druids), Skull & Bones, Untitled Assassin's Creed Spin-Off
         description: | # this will include new lines to allow paragraphs 
             Owner of two boss fights. Scripted AI with goal-oriented action planners (GOAP) and node-based blueprints in Anvil Engine. Light level design (generating navmeshes for AI and adjusting world terrain).
-            # Owner of experimental new horse combat. Created brand new animations, horse weapons and NPC enemies that are fun to fight from horseback.
-            # Owner of experimental new cinematic player camera for conveying emotions through context sensitive camera shake/yaw/tilt/etc.
+            
+            Owner of experimental new horse combat. Created brand new animations, horse weapons and NPC enemies that are fun to fight from horseback.
+            
+            Owner of experimental new cinematic player camera for conveying emotions through context sensitive camera shake/yaw/tilt/etc.
       
       - layout: left
         title: Square Enix Europe
@@ -127,15 +129,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Concordia University
+        caption: 2019
+        sub_title: Ubisoft Game Creator Odyssey
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Rational Game Design (RGD) & Rational Level Design (RLD)
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Concordia University created this course based on 30 years of game design history and it teaches Rational Game Design, which presents methods for how to conceive game mechanics rationally (without creative subjectivity) so that designers know what data to manipulate to keep players in a flow-state.
+      
+      - layout: left
+        title: The Chinese University of Hong Kong
+        caption: 2018
+        sub_title: Course: How Do We Play Games?
+        quote: >
+          Rational Game Design (RGD) & Rational Level Design (RLD)
+        description: | # this will include new lines to allow paragraphs
+          This was a one-off course that I took to learn about accessibility and how different demographics engage with video games.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
